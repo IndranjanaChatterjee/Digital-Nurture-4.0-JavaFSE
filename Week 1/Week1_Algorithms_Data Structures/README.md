@@ -1,6 +1,5 @@
-### Name : Arka Pratim Ghosh
-### SuperSet ID : 5011563
-### Email : arkapratimghosh1264@gmail.com
-### GitHub Repository : https://github.com/arkapg211002/5011563
-
+### Name : Indranjana Chatterjee
+### SuperSet ID : 6375274
+### Email : indranjanachatterjee@gmail.com
+### GitHub Repository : https://github.com/arkapg211002/5011563](https://github.com/IndranjanaChatterjee/Digital-Nurture-4.0-JavaFSE
 ### Week 1 : Algorithms and Data Structures
